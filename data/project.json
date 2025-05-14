@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "seanluyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14880206?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "seanluyk",
     "title": "UAlberta SpokenWeb Testing",
@@ -21,6 +27,8 @@
       "tags": []
     },
     "created_at": "2024-10-09T20:51:39.637Z",
-    "updated_at": "2024-10-09T20:51:39.637Z"
+    "updated_at": "2024-10-09T20:51:39.637Z",
+    "is_private": false,
+    "generate_pages_site": true
   }
 }
